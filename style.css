@@ -1,0 +1,29 @@
+* {
+    text-align: center;
+    font-family: monospace;
+    background-color: oldlace;
+    color: rgb(36, 36, 36);
+}
+
+.food-images{
+    margin: auto;
+    width: 300px;
+    display: block;
+}
+
+.list {
+    padding: 0;
+    margin: 0 auto;
+    width: fit-content;
+    display: flex;
+    justify-content: center; 
+}
+
+.list ul {
+    padding-left: 0; 
+}
+
+.list li {
+    text-align: left; 
+    padding-left: 20px; 
+}
